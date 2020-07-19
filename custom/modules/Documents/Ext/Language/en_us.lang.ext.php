@@ -1,0 +1,13 @@
+<?php 
+ //WARNING: The contents of this file are auto-generated
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_DOCUMENTS_1_FROM_CALLS_TITLE'] = 'Calls';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_DOCUMENTS_1_FROM_CALLS_TITLE'] = 'Calls';
+$mod_strings['LBL_NOV_JUDICIAL_PROCEEDING_DOCUMENTS_1_FROM_NOV_JUDICIAL_PROCEEDING_TITLE'] = 'Judicial proceeding';
+
+?>

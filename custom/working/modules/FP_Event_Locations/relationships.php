@@ -1,0 +1,320 @@
+<?php
+/**
+ *
+ * SugarCRM Community Edition is a customer relationship management program developed by
+ * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
+ *
+ * SuiteCRM is an extension to SugarCRM Community Edition developed by SalesAgility Ltd.
+ * Copyright (C) 2011 - 2017 SalesAgility Ltd.
+ *
+ * This program is free software; you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License version 3 as published by the
+ * Free Software Foundation with the addition of the following permission added
+ * to Section 15 as permitted in Section 7(a): FOR ANY PART OF THE COVERED WORK
+ * IN WHICH THE COPYRIGHT IS OWNED BY SUGARCRM, SUGARCRM DISCLAIMS THE WARRANTY
+ * OF NON INFRINGEMENT OF THIRD PARTY RIGHTS.
+ *
+ * This program is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along with
+ * this program; if not, see http://www.gnu.org/licenses or write to the Free
+ * Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
+ * 02110-1301 USA.
+ *
+ * You can contact SugarCRM, Inc. headquarters at 10050 North Wolfe Road,
+ * SW2-130, Cupertino, CA 95014, USA. or at email address contact@sugarcrm.com.
+ *
+ * The interactive user interfaces in modified source and object code versions
+ * of this program must display Appropriate Legal Notices, as required under
+ * Section 5 of the GNU Affero General Public License version 3.
+ *
+ * In accordance with Section 7(b) of the GNU Affero General Public License version 3,
+ * these Appropriate Legal Notices must retain the display of the "Powered by
+ * SugarCRM" logo and "Supercharged by SuiteCRM" logo. If the display of the logos is not
+ * reasonably feasible for  technical reasons, the Appropriate Legal Notices must
+ * display the words  "Powered by SugarCRM" and "Supercharged by SuiteCRM".
+ */
+
+
+$relationships = array (
+  'fp_event_locations_modified_user' => 
+  array (
+    'id' => '188ed18b-71df-8730-c24b-5b0fc4139455',
+    'relationship_name' => 'fp_event_locations_modified_user',
+    'lhs_module' => 'Users',
+    'lhs_table' => 'users',
+    'lhs_key' => 'id',
+    'rhs_module' => 'FP_Event_Locations',
+    'rhs_table' => 'fp_event_locations',
+    'rhs_key' => 'modified_user_id',
+    'join_table' => NULL,
+    'join_key_lhs' => NULL,
+    'join_key_rhs' => NULL,
+    'relationship_type' => 'one-to-many',
+    'relationship_role_column' => NULL,
+    'relationship_role_column_value' => NULL,
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => NULL,
+    'lhs_subpanel' => NULL,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => true,
+  ),
+  'fp_event_locations_created_by' => 
+  array (
+    'id' => '191ea821-7cc6-f8cf-6088-5b0fc4afc8ef',
+    'relationship_name' => 'fp_event_locations_created_by',
+    'lhs_module' => 'Users',
+    'lhs_table' => 'users',
+    'lhs_key' => 'id',
+    'rhs_module' => 'FP_Event_Locations',
+    'rhs_table' => 'fp_event_locations',
+    'rhs_key' => 'created_by',
+    'join_table' => NULL,
+    'join_key_lhs' => NULL,
+    'join_key_rhs' => NULL,
+    'relationship_type' => 'one-to-many',
+    'relationship_role_column' => NULL,
+    'relationship_role_column_value' => NULL,
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => NULL,
+    'lhs_subpanel' => NULL,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => true,
+  ),
+  'fp_event_locations_assigned_user' => 
+  array (
+    'id' => '19708c53-6f81-b959-846c-5b0fc4f347ff',
+    'relationship_name' => 'fp_event_locations_assigned_user',
+    'lhs_module' => 'Users',
+    'lhs_table' => 'users',
+    'lhs_key' => 'id',
+    'rhs_module' => 'FP_Event_Locations',
+    'rhs_table' => 'fp_event_locations',
+    'rhs_key' => 'assigned_user_id',
+    'join_table' => NULL,
+    'join_key_lhs' => NULL,
+    'join_key_rhs' => NULL,
+    'relationship_type' => 'one-to-many',
+    'relationship_role_column' => NULL,
+    'relationship_role_column_value' => NULL,
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => NULL,
+    'lhs_subpanel' => NULL,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => true,
+  ),
+  'securitygroups_fp_event_locations' => 
+  array (
+    'id' => '1a3eb222-602c-b2c7-c742-5b0fc4e0b412',
+    'relationship_name' => 'securitygroups_fp_event_locations',
+    'lhs_module' => 'SecurityGroups',
+    'lhs_table' => 'securitygroups',
+    'lhs_key' => 'id',
+    'rhs_module' => 'FP_Event_Locations',
+    'rhs_table' => 'fp_event_locations',
+    'rhs_key' => 'id',
+    'join_table' => 'securitygroups_records',
+    'join_key_lhs' => 'securitygroup_id',
+    'join_key_rhs' => 'record_id',
+    'relationship_type' => 'many-to-many',
+    'relationship_role_column' => 'module',
+    'relationship_role_column_value' => 'FP_Event_Locations',
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => NULL,
+    'lhs_subpanel' => NULL,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => true,
+  ),
+  'fp_event_locations_fp_events_1' => 
+  array (
+    'id' => '94262a01-b120-09cd-af69-5b0fc496561c',
+    'relationship_name' => 'fp_event_locations_fp_events_1',
+    'lhs_module' => 'FP_Event_Locations',
+    'lhs_table' => 'fp_event_locations',
+    'lhs_key' => 'id',
+    'rhs_module' => 'FP_events',
+    'rhs_table' => 'fp_events',
+    'rhs_key' => 'id',
+    'join_table' => 'fp_event_locations_fp_events_1_c',
+    'join_key_lhs' => 'fp_event_locations_fp_events_1fp_event_locations_ida',
+    'join_key_rhs' => 'fp_event_locations_fp_events_1fp_events_idb',
+    'relationship_type' => 'many-to-many',
+    'relationship_role_column' => NULL,
+    'relationship_role_column_value' => NULL,
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => 'default',
+    'lhs_subpanel' => NULL,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => true,
+  ),
+  'fp_events_fp_event_locations_1' => 
+  array (
+    'id' => '9547593c-40a3-92ce-f371-5b0fc4dbe82a',
+    'relationship_name' => 'fp_events_fp_event_locations_1',
+    'lhs_module' => 'FP_events',
+    'lhs_table' => 'fp_events',
+    'lhs_key' => 'id',
+    'rhs_module' => 'FP_Event_Locations',
+    'rhs_table' => 'fp_event_locations',
+    'rhs_key' => 'id',
+    'join_table' => 'fp_events_fp_event_locations_1_c',
+    'join_key_lhs' => 'fp_events_fp_event_locations_1fp_events_ida',
+    'join_key_rhs' => 'fp_events_fp_event_locations_1fp_event_locations_idb',
+    'relationship_type' => 'many-to-many',
+    'relationship_role_column' => NULL,
+    'relationship_role_column_value' => NULL,
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => NULL,
+    'lhs_subpanel' => 'default',
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => true,
+  ),
+  'mdj_agencies_fp_event_locations_1' => 
+  array (
+    'id' => 'a0215c73-9452-1a12-e6cf-5b0fc42b9bf3',
+    'relationship_name' => 'mdj_agencies_fp_event_locations_1',
+    'lhs_module' => 'mdj_Agencies',
+    'lhs_table' => 'mdj_agencies',
+    'lhs_key' => 'id',
+    'rhs_module' => 'FP_Event_Locations',
+    'rhs_table' => 'fp_event_locations',
+    'rhs_key' => 'id',
+    'join_table' => 'mdj_agencies_fp_event_locations_1_c',
+    'join_key_lhs' => 'mdj_agencies_fp_event_locations_1mdj_agencies_ida',
+    'join_key_rhs' => 'mdj_agencies_fp_event_locations_1fp_event_locations_idb',
+    'relationship_type' => 'many-to-many',
+    'relationship_role_column' => NULL,
+    'relationship_role_column_value' => NULL,
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => 'default',
+    'lhs_subpanel' => 'default',
+    'from_studio' => true,
+    'is_custom' => true,
+    'relationship_only' => false,
+    'for_activities' => false,
+  ),
+  'contacts_fp_event_locations_1' => 
+  array (
+    'id' => 'a230f3b2-b002-771e-7232-5b0fc41eed69',
+    'relationship_name' => 'contacts_fp_event_locations_1',
+    'lhs_module' => 'Contacts',
+    'lhs_table' => 'contacts',
+    'lhs_key' => 'id',
+    'rhs_module' => 'FP_Event_Locations',
+    'rhs_table' => 'fp_event_locations',
+    'rhs_key' => 'id',
+    'join_table' => 'contacts_fp_event_locations_1_c',
+    'join_key_lhs' => 'contacts_fp_event_locations_1contacts_ida',
+    'join_key_rhs' => 'contacts_fp_event_locations_1fp_event_locations_idb',
+    'relationship_type' => 'many-to-many',
+    'relationship_role_column' => NULL,
+    'relationship_role_column_value' => NULL,
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => 'default',
+    'lhs_subpanel' => 'default',
+    'from_studio' => true,
+    'is_custom' => true,
+    'relationship_only' => false,
+    'for_activities' => false,
+  ),
+  'fp_event_locations_accounts_1' => 
+  array (
+    'id' => 'a331fc6d-778c-5f72-01a6-5b0fc4495f15',
+    'relationship_name' => 'fp_event_locations_accounts_1',
+    'lhs_module' => 'FP_Event_Locations',
+    'lhs_table' => 'fp_event_locations',
+    'lhs_key' => 'id',
+    'rhs_module' => 'Accounts',
+    'rhs_table' => 'accounts',
+    'rhs_key' => 'id',
+    'join_table' => 'fp_event_locations_accounts_1_c',
+    'join_key_lhs' => 'fp_event_locations_accounts_1fp_event_locations_ida',
+    'join_key_rhs' => 'fp_event_locations_accounts_1accounts_idb',
+    'relationship_type' => 'many-to-many',
+    'relationship_role_column' => NULL,
+    'relationship_role_column_value' => NULL,
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => 'default',
+    'lhs_subpanel' => 'default',
+    'from_studio' => true,
+    'is_custom' => true,
+    'relationship_only' => false,
+    'for_activities' => false,
+  ),
+  'calls_fp_event_locations_1' => 
+  array (
+    'id' => 'a80a37ec-a06b-0235-4ca5-5b0fc45585ee',
+    'relationship_name' => 'calls_fp_event_locations_1',
+    'lhs_module' => 'Calls',
+    'lhs_table' => 'calls',
+    'lhs_key' => 'id',
+    'rhs_module' => 'FP_Event_Locations',
+    'rhs_table' => 'fp_event_locations',
+    'rhs_key' => 'id',
+    'join_table' => 'calls_fp_event_locations_1_c',
+    'join_key_lhs' => 'calls_fp_event_locations_1calls_ida',
+    'join_key_rhs' => 'calls_fp_event_locations_1fp_event_locations_idb',
+    'relationship_type' => 'many-to-many',
+    'relationship_role_column' => NULL,
+    'relationship_role_column_value' => NULL,
+    'reverse' => '0',
+    'deleted' => '0',
+    'readonly' => true,
+    'rhs_subpanel' => 'default',
+    'lhs_subpanel' => 'default',
+    'from_studio' => true,
+    'is_custom' => true,
+    'relationship_only' => false,
+    'for_activities' => false,
+  ),
+  'fp_event_locations_prospects_1' => 
+  array (
+    'rhs_label' => 'Traffickers',
+    'lhs_label' => 'Locations',
+    'lhs_subpanel' => 'default',
+    'rhs_subpanel' => 'default',
+    'lhs_module' => 'FP_Event_Locations',
+    'rhs_module' => 'Prospects',
+    'relationship_type' => 'many-to-many',
+    'readonly' => true,
+    'deleted' => false,
+    'relationship_only' => false,
+    'for_activities' => false,
+    'is_custom' => false,
+    'from_studio' => true,
+    'relationship_name' => 'fp_event_locations_prospects_1',
+  ),
+);

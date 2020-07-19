@@ -1,0 +1,106 @@
+<?php 
+ //WARNING: The contents of this file are auto-generated
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+$mod_strings['LBL_CALLS_MDJ_AGENCIES_1_FROM_MDJ_AGENCIES_TITLE'] = 'Agencies';
+$mod_strings['LBL_CALLS_USERS_1_FROM_USERS_TITLE'] = 'Users';
+$mod_strings['LBL_CALLS_FP_EVENT_LOCATIONS_1_FROM_FP_EVENT_LOCATIONS_TITLE'] = 'Locations';
+$mod_strings['LBL_CALLS_DOCUMENTS_1_FROM_DOCUMENTS_TITLE'] = 'Documents';
+$mod_strings['LBL_CALLS_TASKS_1_FROM_TASKS_TITLE'] = 'Astra interventions';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+$mod_strings['LBL_CALLS_USERS_1_FROM_USERS_TITLE'] = 'Users';
+$mod_strings['LBL_CALLS_FP_EVENT_LOCATIONS_1_FROM_FP_EVENT_LOCATIONS_TITLE'] = 'Locations';
+$mod_strings['LBL_CALLS_TASKS_1_FROM_TASKS_TITLE'] = 'Astra interventions';
+$mod_strings['LBL_CALLS_FP_EVENTS_1_FROM_FP_EVENTS_TITLE'] = 'Events';
+$mod_strings['LBL_CALLS_MDJ_ORGANIZATIONS_1_FROM_MDJ_ORGANIZATIONS_TITLE'] = 'Organizations';
+$mod_strings['LBL_CALLS_DOCUMENTS_1_FROM_DOCUMENTS_TITLE'] = 'Documents';
+$mod_strings['LBL_MDJ_AGENCIES_CALLS_1_FROM_MDJ_AGENCIES_TITLE'] = 'Agencies';
+$mod_strings['LBL_MDJ_ORGANIZATIONS_CALLS_1_FROM_MDJ_ORGANIZATIONS_TITLE'] = 'Organizations';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+$mod_strings['LBL_CALLS_MDJ_AGENCIES_1_FROM_MDJ_AGENCIES_TITLE'] = 'Agencies';
+$mod_strings['LBL_CALLS_USERS_1_FROM_USERS_TITLE'] = 'Users';
+$mod_strings['LBL_CALLS_FP_EVENT_LOCATIONS_1_FROM_FP_EVENT_LOCATIONS_TITLE'] = 'Locations';
+$mod_strings['LBL_CALLS_DOCUMENTS_1_FROM_DOCUMENTS_TITLE'] = 'Documents';
+$mod_strings['LBL_CALLS_TASKS_1_FROM_TASKS_TITLE'] = 'Astra interventions';
+$mod_strings['LBL_CALLS_FP_EVENTS_1_FROM_FP_EVENTS_TITLE'] = 'Events';
+$mod_strings['LBL_CALLS_MDJ_ORGANIZATIONS_1_FROM_MDJ_ORGANIZATIONS_TITLE'] = 'Organizations';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+$mod_strings['LBL_CALLS_MDJ_AGENCIES_1_FROM_MDJ_AGENCIES_TITLE'] = 'Agencies';
+$mod_strings['LBL_CALLS_USERS_1_FROM_USERS_TITLE'] = 'Users';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+$mod_strings['LBL_CALLS_USERS_1_FROM_USERS_TITLE'] = 'Users';
+$mod_strings['LBL_CALLS_FP_EVENT_LOCATIONS_1_FROM_FP_EVENT_LOCATIONS_TITLE'] = 'Locations';
+$mod_strings['LBL_CALLS_TASKS_1_FROM_TASKS_TITLE'] = 'Astra interventions';
+$mod_strings['LBL_CALLS_FP_EVENTS_1_FROM_FP_EVENTS_TITLE'] = 'Events';
+$mod_strings['LBL_CALLS_MDJ_ORGANIZATIONS_1_FROM_MDJ_ORGANIZATIONS_TITLE'] = 'Organizations';
+$mod_strings['LBL_CALLS_DOCUMENTS_1_FROM_DOCUMENTS_TITLE'] = 'Documents';
+$mod_strings['LBL_MDJ_AGENCIES_CALLS_1_FROM_MDJ_AGENCIES_TITLE'] = 'Agencies';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+$mod_strings['LBL_CALLS_MDJ_AGENCIES_1_FROM_MDJ_AGENCIES_TITLE'] = 'Agencies';
+$mod_strings['LBL_CALLS_USERS_1_FROM_USERS_TITLE'] = 'Users';
+$mod_strings['LBL_CALLS_FP_EVENT_LOCATIONS_1_FROM_FP_EVENT_LOCATIONS_TITLE'] = 'Locations';
+$mod_strings['LBL_CALLS_DOCUMENTS_1_FROM_DOCUMENTS_TITLE'] = 'Documents';
+$mod_strings['LBL_CALLS_TASKS_1_FROM_TASKS_TITLE'] = 'Astra interventions';
+$mod_strings['LBL_CALLS_FP_EVENTS_1_FROM_FP_EVENTS_TITLE'] = 'Events';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+$mod_strings['LBL_CALLS_MDJ_AGENCIES_1_FROM_MDJ_AGENCIES_TITLE'] = 'Agencies';
+$mod_strings['LBL_CALLS_USERS_1_FROM_USERS_TITLE'] = 'Users';
+$mod_strings['LBL_CALLS_FP_EVENT_LOCATIONS_1_FROM_FP_EVENT_LOCATIONS_TITLE'] = 'Locations';
+$mod_strings['LBL_CALLS_TASKS_1_FROM_TASKS_TITLE'] = 'Astra interventions';
+$mod_strings['LBL_CALLS_FP_EVENTS_1_FROM_FP_EVENTS_TITLE'] = 'Events';
+$mod_strings['LBL_CALLS_MDJ_ORGANIZATIONS_1_FROM_MDJ_ORGANIZATIONS_TITLE'] = 'Organizations';
+$mod_strings['LBL_CALLS_DOCUMENTS_1_FROM_DOCUMENTS_TITLE'] = 'Documents';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+$mod_strings['LBL_CALLS_MDJ_AGENCIES_1_FROM_MDJ_AGENCIES_TITLE'] = 'Agencies';
+$mod_strings['LBL_CALLS_USERS_1_FROM_USERS_TITLE'] = 'Users';
+$mod_strings['LBL_CALLS_FP_EVENT_LOCATIONS_1_FROM_FP_EVENT_LOCATIONS_TITLE'] = 'Locations';
+$mod_strings['LBL_NEW_ACTION'] = 'New action';
+
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+
+?>

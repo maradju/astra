@@ -1,0 +1,7 @@
+<?php
+//THIS FILE IS AUTO GENERATED, DO NOT MODIFY
+$mod_strings['LBL_CALLS_ACCOUNTS_1_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_ACCOUNTS_2_FROM_ACCOUNTS_TITLE'] = 'Victims';
+$mod_strings['LBL_CALLS_PROSPECTS_1_FROM_PROSPECTS_TITLE'] = 'Traffickers';
+$mod_strings['LBL_CALLS_MDJ_AGENCIES_1_FROM_MDJ_AGENCIES_TITLE'] = 'Agencies';
+$mod_strings['LBL_CALLS_USERS_1_FROM_USERS_TITLE'] = 'Users';

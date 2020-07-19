@@ -1,0 +1,25 @@
+<?php
+// created: 2018-05-31 11:52:58
+$mod_strings = array (
+  'LBL_CALLS' => 'Calls',
+  'LBL_TASKS' => 'Astra interventions',
+  'LNK_NEW_PROSPECT' => 'Create Trafficker',
+  'LNK_PROSPECT_LIST' => 'View Traffickers',
+  'LNK_IMPORT_VCARD' => 'Create From vCard',
+  'LNK_IMPORT_PROSPECTS' => 'Import Traffickers',
+  'MSG_SHOW_DUPLICATES' => 'The trafficker record you are about to create might be a duplicate of a trafficker record that already exists. Trafficker records containing similar names and/or email addresses are listed below.Click Create Trafficker to continue creating this new trafficker, or select an existing trafficker listed below.',
+  'LBL_SAVE_PROSPECT' => 'Save Trafficker',
+  'LBL_LIST_FORM_TITLE' => 'Trafficker List',
+  'LBL_SEARCH_FORM_TITLE' => 'Trafficker Search',
+  'LBL_AGE' => 'Age',
+  'LBL_RELATION_WITH_VICTIM' => 'Relationship with victim',
+  'LBL_RELATIONSHIP_WITH_VICTIM' => 'Relationship with victim',
+  'LBL_NATIONALITY' => 'Nationality',
+  'LBL_MARITAL_STATUS' => 'Marital status',
+  'LBL_PUNISHED_BEFORE' => 'Punished before:',
+  'LBL_NUMBER_OF_VICTIMS' => 'Number of victims',
+  'LBL_IS_HE_RECRUITER' => 'Is he recruiter:',
+  'LBL_GENDER' => 'Gender',
+  'LBL_FIRST_NAME1' => 'first name1',
+  'LBL_FIRST_NAME12' => 'First Name',
+);
